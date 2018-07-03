@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.5)  3 JUL 2018 10:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.5)  3 JUL 2018 11:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,8 +1377,7 @@ ne 79.
 Package newfloat Info: float type `myfigure'=8 on input line 79.
 Package newfloat Info: \newfloat@ext@los is already defined on input line 79.
 \c@submyfigure=\count276
-
-No file "Working Clean Document".aux.
+ (./Working Clean Document.aux)
 \openout1 = `"Working Clean Document.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
@@ -1451,6 +1450,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 96.
 LaTeX Info: Redefining \pageref on input line 96.
 LaTeX Info: Redefining \nameref on input line 96.
+ (./Working Clean Document.out) (./Working Clean Document.out)
 \@outlinefile=\write7
 \openout7 = `"Working Clean Document.out"'.
 
@@ -1498,18 +1498,19 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 103.
 (/maths/linuxlocal/AMD64/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\tf@toc=\write8
-\openout8 = `"Working Clean Document.toc"'.
-
-
-[1
+(./Working Clean Document.toc [1
 
 {/maths/linuxlocal/AMD64/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.
 map}]
+Overfull \hbox (0.61113pt too wide) detected at line 59
+ []\OT1/cmr/m/n/10 xxii
+ []
 
-LaTeX Warning: Reference `Section:Literature Reviews' on page 1 undefined on in
-put line 124.
+)
+\tf@toc=\write8
+\openout8 = `"Working Clean Document.toc"'.
 
+ [2]
 
 Package natbib Warning: Citation `Alpern2011' on page 1 undefined on input line
  124.
@@ -1519,56 +1520,12 @@ Package natbib Warning: Citation `Lin2013' on page 1 undefined on input line 12
 4.
 
 
-LaTeX Warning: Reference `Section:Patrolling games' on page 1 undefined on inpu
-t line 124.
-
-
-LaTeX Warning: Reference `Section:Patrolling games with random attackers and lo
-cal-observations' on page 1 undefined on input line 124.
-
-
-LaTeX Warning: Reference `Section:Patrolling games' on page 1 undefined on inpu
-t line 126.
-
-
 Package natbib Warning: Citation `Alpern2011' on page 1 undefined on input line
  126.
 
 
-LaTeX Warning: Reference `Section:Patrolling games with random attackers and lo
-cal-observations' on page 1 undefined on input line 128.
-
-
 Package natbib Warning: Citation `Lin2013' on page 1 undefined on input line 12
 8.
-
-
-LaTeX Warning: Reference `Section:Future Work' on page 1 undefined on input lin
-e 128.
-
-
-LaTeX Warning: Reference `Section:Future Work' on page 1 undefined on input lin
-e 130.
-
-
-LaTeX Warning: Reference `Section:Patrolling games' on page 1 undefined on inpu
-t line 132.
-
-
-LaTeX Warning: Reference `Section:Patrolling games with random attackers and lo
-cal-observations' on page 1 undefined on input line 132.
-
-
-LaTeX Warning: Reference `Section:Future Work' on page 1 undefined on input lin
-e 132.
-
-
-LaTeX Warning: Reference `Section:Review of Strategic Patrolling games' on page
- 1 undefined on input line 132.
-
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 1 undefined on input line 132.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -1690,10 +1647,6 @@ Package natbib Warning: Citation `Alpern2011' on page 2 undefined on input line
  161.
 
 
-LaTeX Warning: Reference `Section:Review of Strategic Patrolling games' on page
- 2 undefined on input line 161.
-
-
 Package natbib Warning: Citation `Papadaki2016' on page 2 undefined on input li
 ne 161.
 
@@ -1702,24 +1655,12 @@ Package natbib Warning: Citation `Alpern2016' on page 2 undefined on input line
  161.
 
 
-LaTeX Warning: Reference `Section:Patrolling games' on page 2 undefined on inpu
-t line 161.
-
-
 Package natbib Warning: Citation `Lin2013' on page 2 undefined on input line 16
 3.
 
 
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 2 undefined on input line 163.
-
-
 Package natbib Warning: Citation `Gittins2011' on page 2 undefined on input lin
 e 163.
-
-
-LaTeX Warning: Reference `Section:Patrolling games with random attackers and lo
-cal-observations' on page 2 undefined on input line 163.
 
 
 Package natbib Warning: Citation `Lin2014' on page 2 undefined on input line 16
@@ -1729,14 +1670,16 @@ Package natbib Warning: Citation `Lin2014' on page 2 undefined on input line 16
 Package natbib Warning: Citation `Alpern2011' on page 2 undefined on input line
  169.
 
-
-LaTeX Warning: Reference `Section:Patrolling games' on page 2 undefined on inpu
-t line 169.
-
-[2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.171 \subsubsection
+                    {Game set-up} [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 174.
 
- (/maths/linuxlocal/AMD64/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+
+(/maths/linuxlocal/AMD64/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1748,20 +1691,8 @@ Package natbib Warning: Citation `Alpern2011' on page 4 undefined on input line
  217.
 
 
-LaTeX Warning: Reference `Appendix:Example of deocmposition' on page 4 undefine
-d on input line 230.
-
-
-LaTeX Warning: Reference `Appendix:Example of simplification' on page 4 undefin
-ed on input line 240.
-
-
 Package natbib Warning: Citation `Alpern2011' on page 4 undefined on input line
  244.
-
-
-LaTeX Warning: Reference `Section:Issue and correction of the diametric bound' 
-on page 4 undefined on input line 247.
 
 [4]
 
@@ -1772,10 +1703,6 @@ Package natbib Warning: Citation `Alpern2011' on page 5 undefined on input line
 Package natbib Warning: Citation `Papadaki2016' on page 5 undefined on input li
 ne 271.
 
-
-LaTeX Warning: Reference `Figure:Line 10 value function' on page 5 undefined on
- input line 281.
-
 (./Images/LineRegions(L_10).tex)
 Package hyperref Info: bookmark level for unknown myfigure defaults to 0 on inp
 ut line 287.
@@ -1783,10 +1710,6 @@ ut line 287.
 
 Package natbib Warning: Citation `Papadaki2016' on page 5 undefined on input li
 ne 291.
-
-
-LaTeX Warning: Reference `Section:Patrolling games' on page 5 undefined on inpu
-t line 291.
 
 [5]
 
@@ -1796,10 +1719,6 @@ Package natbib Warning: Citation `Alpern2011' on page 6 undefined on input line
 
 Package natbib Warning: Citation `Papadaki2016' on page 6 undefined on input li
 ne 304.
-
-
-LaTeX Warning: Reference `Section:Review of Strategic Patrolling games' on page
- 6 undefined on input line 308.
 
 
 Package natbib Warning: Citation `Lin2013' on page 6 undefined on input line 30
@@ -1813,20 +1732,7 @@ e 308.
 Package natbib Warning: Citation `Lin2013' on page 6 undefined on input line 31
 0.
 
-
-LaTeX Warning: Reference `Section:Patrolling games with random attackers and lo
-cal-observations' on page 6 undefined on input line 310.
-
 [6]
-
-LaTeX Warning: Reference `Figure:Example of graph diagram' on page 7 undefined 
-on input line 382.
-
-
-LaTeX Warning: Reference `Figure:Example of timing for original problem' on pag
-e 7 undefined on input line 382.
-
-
 Overfull \hbox (5.76933pt too wide) in paragraph at lines 441--442
 []\OT1/cmr/m/n/10 We can for-mu-late such a prob-lem as a Markov De-ci-sion Pro
 -cess(MDP) with state space, $
@@ -1844,19 +1750,10 @@ ne 454.
 Package natbib Warning: Citation `Puterman1994' on page 8 undefined on input li
 ne 463.
 
-[8]
-
-LaTeX Warning: Reference `Appendix:Optimal Solution for a Random Attacker' on p
-age 9 undefined on input line 493.
-
-[9] [10]
+[8] [9] [10]
 
 Package natbib Warning: Citation `Lin2013' on page 11 undefined on input line 5
 81.
-
-
-LaTeX Warning: Reference `Equation:Average long run cost via patrol pattern' on
- page 11 undefined on input line 583.
 
 
 Package natbib Warning: Citation `Lin2013' on page 11 undefined on input line 5
@@ -1879,49 +1776,15 @@ e 610.
 Package natbib Warning: Citation `Alpern2011' on page 12 undefined on input lin
 e 616.
 
-
-LaTeX Warning: Reference `Appendix:Proof of diametric waiting time' on page 12 
-undefined on input line 625.
-
-
-LaTeX Warning: Reference `Appendix:Proof of diametric waiting time' on page 12 
-undefined on input line 634.
-
 [12]
-
-LaTeX Warning: Reference `Figure:Example of upper bound achieved by diametric a
-ttack' on page 13 undefined on input line 636.
-
-
-LaTeX Warning: Reference `Lemma:Condition on time horizon for diametric bound t
-o hold' on page 13 undefined on input line 636.
-
 
 Package natbib Warning: Citation `Alpern2011' on page 13 undefined on input lin
 e 636.
 
-
-LaTeX Warning: Reference `Appendix:Proof of conditions on T for diametric attac
-k' on page 13 undefined on input line 643.
-
-(./Images/DiametricAttack(m_45,d_30).tex)
-
-LaTeX Warning: Reference `Appendix:Proof of time-limited diametric attack' on p
-age 13 undefined on input line 667.
-
-[13]
-
-LaTeX Warning: Reference `Appendix:Generalised ARHP' on page 14 undefined on in
-put line 729.
-
-[14]
+(./Images/DiametricAttack(m_45,d_30).tex) [13] [14]
 
 Package natbib Warning: Citation `Lin2013' on page 15 undefined on input line 7
 55.
-
-
-LaTeX Warning: Reference `Figure:Example of elongated labelling' on page 15 und
-efined on input line 766.
 
 
 Package natbib Warning: Citation `Lin2013' on page 15 undefined on input line 7
@@ -1945,33 +1808,11 @@ e 894.
 Package natbib Warning: Citation `Alpern2011' on page 16 undefined on input lin
 e 911.
 
-[16]
-
-LaTeX Warning: Reference `Figure:Time spacing of the time-delayed attack' on pa
-ge 17 undefined on input line 919.
-
-
-LaTeX Warning: Reference `Figure:Elongated star graph region 1 and 2 value' on 
-page 17 undefined on input line 979.
-
-(./Images/ElongatedStarRegions(S_10_5).tex)
-
-LaTeX Warning: Reference `Appendix:Reason for probability of interception' on p
-age 17 undefined on input line 991.
-
-(./Images/BaseInterceptionOnS_4^5(m=4).tex)
-
-LaTeX Warning: Reference `Figure:Base interception probabilities' on page 17 un
-defined on input line 1011.
-
-[17] [18]
+[16] (./Images/ElongatedStarRegions(S_10_5).tex)
+(./Images/BaseInterceptionOnS_4^5(m=4).tex) [17] [18]
 
 Package natbib Warning: Citation `Papadaki2016' on page 19 undefined on input l
 ine 1017.
-
-
-LaTeX Warning: Reference `eq:Prob of Interception' on page 19 undefined on inpu
-t line 1034.
 
 
 Package natbib Warning: Citation `Papadaki2016' on page 19 undefined on input l
@@ -1980,42 +1821,12 @@ ine 1048.
 [19]
 Package hyperref Info: bookmark level for unknown examplefigure defaults to 0 o
 n input line 1128.
-
-
-LaTeX Warning: Reference `Appendix:Naive improvement analysis' on page 20 undef
-ined on input line 1132.
-
-(./Images/NavieInterceptionOnS_4^5(m=4).tex) [20]
-
-LaTeX Warning: Reference `Appendix:Combinatorial improvement analysis' on page 
-21 undefined on input line 1154.
-
+ (./Images/NavieInterceptionOnS_4^5(m=4).tex) [20]
 (./Images/CombinatorialInterceptionOnS_4^5(m=8).tex)
-(./Images/CombinatorialInterceptionOnS_4^5(m=4).tex)
-
-LaTeX Warning: Reference `Section:Further solutions for elongated trees' on pag
-e 21 undefined on input line 1175.
-
-
-LaTeX Warning: Reference `Section:Further solutions for elongated trees' on pag
-e 21 undefined on input line 1175.
-
-[21]
-
-LaTeX Warning: Reference `Section:Further solutions for elongated trees' on pag
-e 22 undefined on input line 1187.
-
+(./Images/CombinatorialInterceptionOnS_4^5(m=4).tex) [21]
 
 Package natbib Warning: Citation `Lin2013' on page 22 undefined on input line 1
 187.
-
-
-LaTeX Warning: Reference `Figure:Example of generalised labelling' on page 22 u
-ndefined on input line 1201.
-
-
-LaTeX Warning: Reference `Figure:Example of simplification to general star grap
-h' on page 22 undefined on input line 1236.
 
 [22]
 
@@ -2026,105 +1837,15 @@ e 1259.
 Package natbib Warning: Citation `Alpern2011' on page 23 undefined on input lin
 e 1259.
 
-[23] [24]
-
-LaTeX Warning: Reference `Figure:Time spacing of the type-delayed attack' on pa
-ge 25 undefined on input line 1338.
-
-(./Images/GeneralStarRegions(S_10_5,3,2,1).tex) [25] [26] [27]
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 28 undefined on input line 1737.
-
-
-LaTeX Warning: Reference `Figure:Example of timing for instantaneously moving p
-atroller' on page 28 undefined on input line 1740.
-
-[28]
-
-LaTeX Warning: Reference `Theorem:Single node optimal policy' on page 29 undefi
-ned on input line 1822.
-
-
-LaTeX Warning: Reference `Section:Complete Numerical experiments for an instant
-aneously moving patroller' on page 29 undefined on input line 1828.
-
-
-LaTeX Warning: Reference `Figure:Example of local-observation graph diagram' on
- page 29 undefined on input line 1833.
-
-
-LaTeX Warning: Reference `Figure:Example of timing for instantaneous and local 
-observations' on page 29 undefined on input line 1833.
-
-[29]
-
-LaTeX Warning: Reference `Equation:Definition of attack time bound' on page 30 
-undefined on input line 2040.
-
-
-LaTeX Warning: Reference `Section:Complete Numerical experiments for an instant
-aneously moving patroller' on page 30 undefined on input line 2105.
-
-[30]
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 31 undefined on input line 2109.
-
-[31] [32] [33] [34] [35]
-
-LaTeX Warning: Reference `Equation:Omega equations' on page 36 undefined on inp
-ut line 2439.
-
-[36]
-
-LaTeX Warning: Reference `Section:Complete Numerical experiments for an instant
-aneously moving patroller' on page 37 undefined on input line 2493.
-
-(./Images/BHvsPHInitialPlainComplete.tex)
-
-LaTeX Warning: Reference `Figure:Initial RH and PH for plain index' on page 37 
-undefined on input line 2512.
-
-[37] (./Images/BHvsPHNewPlainComplete.tex)
-
-LaTeX Warning: Reference `Figure:Initial RH and PH for plain index' on page 38 
-undefined on input line 2534.
-
-
-LaTeX Warning: Reference `Figure:RH and PH for new plain index' on page 38 unde
-fined on input line 2534.
-
+[23] [24] (./Images/GeneralStarRegions(S_10_5,3,2,1).tex) [25] [26] [27]
+[28] [29] [30] [31] [32] [33] [34] [35] [36]
+(./Images/BHvsPHInitialPlainComplete.tex) [37]
+(./Images/BHvsPHNewPlainComplete.tex)
 
 Package natbib Warning: Citation `Lin2013' on page 38 undefined on input line 2
 534.
 
-[38]
-
-LaTeX Warning: Reference `Appendix:Combinatorial improvement extension' on page
- 39 undefined on input line 2569.
-
-
-LaTeX Warning: Reference `Figure:Example of attack below bound' on page 39 unde
-fined on input line 2571.
-
-
-LaTeX Warning: Reference `Section:Proof completions' on page 39 undefined on in
-put line 2705.
-
-
-LaTeX Warning: Reference `Appendix:Proof of time-limited diametric attack' on p
-age 39 undefined on input line 2709.
-
-
-LaTeX Warning: Reference `Appendix:Proof of time-delayed attack' on page 39 und
-efined on input line 2709.
-
-
-LaTeX Warning: Reference `Appendix:Proof of type-delayed attack' on page 39 und
-efined on input line 2709.
-
-[39] [40]
+[38] [39] [40]
 Overfull \hbox (1.72064pt too wide) in paragraph at lines 2718--2719
 \OT1/cmr/m/n/10 The cur-rent code can only deal with de-ter-min-is-tic at-tack 
 times, as it was ini-tially de-vel-oped for local-observations.
@@ -2134,35 +1855,10 @@ times, as it was ini-tially de-vel-oped for local-observations.
 Package natbib Warning: Citation `Lin2013' on page 41 undefined on input line 2
 727.
 
-
-LaTeX Warning: Reference `Section:Deterministic attack time assumption' on page
- 41 undefined on input line 2730.
-
-[41] [42]
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 43 undefined on input line 2858.
-
-[43]
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 44 undefined on input line 2897.
-
+[41] [42] [43]
 
 Package natbib Warning: Citation `Lin2013' on page 44 undefined on input line 2
 897.
-
-
-LaTeX Warning: Reference `Appendix:Graph Definitions' on page 44 undefined on i
-nput line 2897.
-
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 44 undefined on input line 2897.
-
-
-LaTeX Warning: Reference `Figure:Example of converting a weighted patrol proble
-m' on page 44 undefined on input line 2916.
 
 [44]
 
@@ -2170,16 +1866,8 @@ Package natbib Warning: Citation `Lin2013' on page 45 undefined on input line 2
 962.
 
 
-LaTeX Warning: Reference `Figure:Example of converting a weighted patrol proble
-m' on page 45 undefined on input line 2962.
-
-
 Package natbib Warning: Citation `Lin2013' on page 45 undefined on input line 2
 964.
-
-
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page 45 undefined on input line 2972.
 
 
 Package natbib Warning: Citation `Lin2014' on page 45 undefined on input line 2
@@ -2207,39 +1895,10 @@ Package natbib Warning: Citation `Lin2013' on page 46 undefined on input line 2
 984.
 
 No file "Working Clean Document".bbl.
-[46] [1]
-
-LaTeX Warning: Reference `figure: walks on graph Q' on page ii undefined on inp
-ut line 3180.
-
-
-LaTeX Warning: Reference `subfigure: bipartite Q' on page ii undefined on input
- line 3302.
-
-
-LaTeX Warning: Reference `subfigure: complete bipartite' on page ii undefined o
-n input line 3302.
-
-
-LaTeX Warning: Reference `subfigure: bipartite Q' on page ii undefined on input
- line 3302.
-
-
-LaTeX Warning: Reference `subfigure: complete bipartite' on page ii undefined o
-n input line 3302.
-
-[2]
-
-LaTeX Warning: Reference `Figure:Q decompisition example' on page iii undefined
- on input line 3407.
-
+[46] [1] [2]
 
 Package natbib Warning: Citation `Alpern2011' on page iii undefined on input li
 ne 3407.
-
-
-LaTeX Warning: Reference `Figure:Q simplification example' on page iii undefine
-d on input line 3446.
 
 [3] [4] [5] [6] [7]
 Overfull \hbox (31.2838pt too wide) in paragraph at lines 3642--3644
@@ -2277,14 +1936,6 @@ Package natbib Warning: Citation `Puterman1994' on page xxii undefined on input
 
 [22]
 
-LaTeX Warning: Reference `Section:Review of patrolling problem with random atta
-ckers' on page xxiii undefined on input line 4251.
-
-
-LaTeX Warning: Reference `Section:Patrolling games with random attackers and lo
-cal-observations' on page xxiii undefined on input line 4259.
-
-
 Package natbib Warning: Citation `Puterman1994' on page xxiii undefined on inpu
 t line 4259.
 
@@ -2298,69 +1949,59 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 4260.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4260.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4260.
 
-
-
-Package rerunfilecheck Warning: File `"Working Clean Document".out' has changed
-.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Working Clean Document".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  0D7F41A7C85C9B7F8A24AF73CC8A52E1;4605.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `"Working Clean Document".out' has not change
+d.
+(rerunfilecheck)             Checksum: 0D7F41A7C85C9B7F8A24AF73CC8A52E1;4605.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4260.
  ) 
 Here is how much of TeX's memory you used:
- 32859 strings out of 492995
- 642371 string characters out of 6132690
- 847777 words of memory out of 5000000
- 35687 multiletter control sequences out of 15000+600000
+ 32929 strings out of 492995
+ 643597 string characters out of 6132690
+ 852762 words of memory out of 5000000
+ 35748 multiletter control sequences out of 15000+600000
  25103 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,22n,103p,10494b,1046s stack positions out of 5000i,500n,10000p,200000b,80000s
-</maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/font
-s/type1/public/amsfonts/cm/cmex10.pfb></maths/linuxlocal/AMD64/texlive/2017/tex
-mf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></maths/linuxlocal/AMD64/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></maths/linux
-local/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi5.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi6.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi7.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></maths/linuxlocal/AMD64/texlive/201
-7/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></maths/linuxlocal/AMD64/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></maths/linu
-xlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7
-.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr5.pfb></maths/linuxlocal/AMD64/texlive/2017/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></maths/linuxlocal/AMD64/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></maths/linuxlocal/AMD
-64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></maths/linu
-xlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>
+pdfTeX warning (dest): name{theorem.1.2} has been referenced but does not exi
+st, replaced by a fixed one
+
 </maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmss12.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></maths/linuxlocal/AMD64/texlive/2017/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></maths/linuxlocal/AMD64/texli
-ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></maths/linuxlocal/
-AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></maths
-/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.
-pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfont
-s/symbols/msbm10.pfb>
-Output written on "Working Clean Document.pdf" (71 pages, 727423 bytes).
+/cmbx10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmex10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf
+-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></maths/linuxlocal/AMD64/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></maths/linuxlo
+cal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></m
+aths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></maths/linuxlocal/AMD64/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></maths/linuxlocal/AMD64/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></maths/linuxl
+ocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.p
+fb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr5.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></maths/linuxlocal/AMD64/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></maths/linuxlocal/AMD64
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></maths/linuxl
+ocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
+maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mss12.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssbx10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></maths/linuxlocal/AMD64/texlive/2017/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></maths/linuxlocal/AMD64/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></maths/linuxlocal/AM
+D64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></maths/l
+inuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pf
+b></maths/linuxlocal/AMD64/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+symbols/msbm10.pfb>
+Output written on "Working Clean Document.pdf" (72 pages, 739633 bytes).
 PDF statistics:
- 648 PDF objects out of 1000 (max. 8388607)
- 541 compressed objects within 6 object streams
- 243 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 982 PDF objects out of 1000 (max. 8388607)
+ 869 compressed objects within 9 object streams
+ 244 named destinations out of 1000 (max. 500000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
