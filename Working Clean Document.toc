@@ -1,0 +1,60 @@
+\contentsline {section}{\numberline {1}Literature Reviews}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Overview of Security Problems}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Review of the Patrolling game}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Game set-up}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Bounds and Tools}{4}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Solved Graphs}{5}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Conclusion on review of patrolling problem}{6}{subsubsection.1.2.4}
+\contentsline {subsection}{\numberline {1.3}Review of the patrolling problem with random attackers}{6}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Problem set-up}{7}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Problem relaxation}{9}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Single-node problem}{10}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}More heuristics}{11}{subsubsection.1.3.4}
+\contentsline {subsubsection}{\numberline {1.3.5}Conclusion on review of patrolling problem}{12}{subsubsection.1.3.5}
+\contentsline {section}{\numberline {2}Patrolling games}{12}{section.2}
+\contentsline {subsection}{\numberline {2.1}Issue and correction of the diametric bound}{12}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}New Tools}{13}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Star graph solution}{15}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Elongating the star graph}{15}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Generalising the star graph}{22}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Joining star graphs by centralised connections}{25}{subsection.2.6}
+\contentsline {section}{\numberline {3}Patrolling problem with local-observations}{28}{section.3}
+\contentsline {subsection}{\numberline {3.1}Altering the problem for an instantaneously moving patroller}{28}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Altering problem to accommodate local-observable information}{29}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Deterministic attack time assumption}{31}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Single node solution}{32}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Index and heuristics}{36}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Numerical experiments}{37}{subsection.3.6}
+\contentsline {section}{\numberline {4}Future Work}{39}{section.4}
+\contentsline {subsection}{\numberline {4.1}Further solutions for elongated trees}{39}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Plan}{39}{subsubsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2}Proof completions}{41}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Plan}{41}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Complete numerical experiments}{41}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Plan}{41}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Extending discrete attack time to generic distributions for local observations}{41}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Plan}{43}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Patrolling problem and game with random attackers on edges}{43}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Plan}{44}{subsubsection.4.5.1}
+\contentsline {subsection}{\numberline {4.6}Investigate weighted graphs}{44}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Plan}{45}{subsubsection.4.6.1}
+\contentsline {subsection}{\numberline {4.7}Investigate types of patrolling}{46}{subsection.4.7}
+\contentsline {subsubsection}{\numberline {4.7.1}Plan}{46}{subsubsection.4.7.1}
+\contentsline {section}{Appendices}{i}{section*.35}
+\contentsline {section}{\numberline {A}Graph Definitions}{i}{appendix.A}
+\contentsline {section}{\numberline {B}Examples}{iii}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Example of decomposition}{iii}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Example of simplification}{iv}{subsection.B.2}
+\contentsline {section}{\numberline {C}Patrolling games}{iv}{appendix.C}
+\contentsline {subsection}{\numberline {C.1}Proof of diametric waiting time}{iv}{subsection.C.1}
+\contentsline {subsection}{\numberline {C.2}Proof of conditions on T for diametric attack}{v}{subsection.C.2}
+\contentsline {subsection}{\numberline {C.3}Proof of time-limited diametric attack}{vi}{subsection.C.3}
+\contentsline {subsection}{\numberline {C.4}Proof of time-delayed attack}{vii}{subsection.C.4}
+\contentsline {subsection}{\numberline {C.5}Proof of type-delayed attack}{xv}{subsection.C.5}
+\contentsline {subsection}{\numberline {C.6}Generalised ARHP}{xix}{subsection.C.6}
+\contentsline {section}{\numberline {D}Improving random oscillations}{xx}{appendix.D}
+\contentsline {subsection}{\numberline {D.1}Reason For Probability of Interception formula}{xx}{subsection.D.1}
+\contentsline {subsection}{\numberline {D.2}Naive improvement analysis}{xx}{subsection.D.2}
+\contentsline {subsection}{\numberline {D.3}Combinatorial improvement analysis}{xxi}{subsection.D.3}
+\contentsline {subsection}{\numberline {D.4}Combinatorial improvement extension}{xxii}{subsection.D.4}
+\contentsline {section}{\numberline {E}Optimal Solution for a Random Attacker}{xxii}{appendix.E}
